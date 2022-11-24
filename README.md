@@ -6,12 +6,14 @@ Autenticación con Amplify AWS y automatización de pruebas con Cypress
 
 Despliegue :computer:
 -
-
 https://dev.d1n2mdphoj8g3y.amplifyapp.com
 
-Video Cypress
+Repositorio CodeCommit :star2:
 -
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/auth-diferent-its
 
+Video Cypress :clapper:
+-
 https://user-images.githubusercontent.com/71676082/203677091-d0f1050c-543e-41d9-8e5d-33bb66bed806.mp4
 
 Tecnologías usadas :pushpin:
@@ -19,4 +21,6 @@ Tecnologías usadas :pushpin:
 - React
 - Amplify
 - Amplify UI
+- Graphql
 - Cypress
+- CodeCommit
