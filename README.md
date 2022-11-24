@@ -7,7 +7,7 @@ Autenticación con Amplify AWS y automatización de pruebas con Cypress
 Despliegue :computer:
 -
 
-Proximamente
+https://dev.d1n2mdphoj8g3y.amplifyapp.com
 
 Video Cypress
 -
