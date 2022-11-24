@@ -12,7 +12,7 @@ Proximamente
 Video Cypress
 -
 
-Proximamente
+https://user-images.githubusercontent.com/71676082/203677091-d0f1050c-543e-41d9-8e5d-33bb66bed806.mp4
 
 Tecnologías usadas :pushpin:
 -
